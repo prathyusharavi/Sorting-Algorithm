@@ -63,8 +63,8 @@ print(list_of_nums)
 ```
 
 ## Output:
-![image](https://github.com/prathyusharavi/Sorting-Algorithm/assets/147474424/be79bfb5-55fc-431b-9ccb-2d5e68a0ce83)
-![image](https://github.com/prathyusharavi/Sorting-Algorithm/assets/147474424/dde87551-2314-4147-bf88-425f1734bdaa)
+![image](https://github.com/prathyusharavi/Sorting-Algorithm/assets/147474424/b3d56a09-6453-4f7b-9748-aca8d6156a83)
+![image](https://github.com/prathyusharavi/Sorting-Algorithm/assets/147474424/351dab2f-83fd-4657-b500-3dfda9135b9e)
 
 
 ## Result:
