@@ -63,8 +63,8 @@ print(list_of_nums)
 ```
 
 ## Output:
-![Alt text](image.png)
-![Alt text](image-1.png)
+![OUTPUT](image.png)
+![OUTPUT](image-1.png)
 
 
 ## Result:
